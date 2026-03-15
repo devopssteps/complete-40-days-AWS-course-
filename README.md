@@ -4,7 +4,7 @@
 | Day       | Topic                                                                                                                                                                  |
 | ----------| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Day 01    | What is Cloud Computing?, IaaS vs PaaS vs SaaS, Public vs Private vs Hybrid Cloud                                                    |
-| Day 02    | AWS Free Tier, Create AWS Account, MFA Setup, Budget setup, Introduction to AWS,AWS Global Infrastructure, Regions & Availability Zones                     |
+| Day 02    | AWS Free Tier, Create AWS Account, MFA Setup, Budget setup, Regions & Availability Zones                     |
 | Day 03    | IAM Users, Groups, Policies                                                      |
 | Day 04    | AWS CLI Setup, Configure AWS CLI, Basic CLI Commands                                                         |
 | Day 05    | EC2 Key Pairs, Security Groups, Connect via SSH, EC2 Introduction and Launch First EC2 Instance, EC2 Pricing & Instance Types, T2 vs T3 vs M5 vs C5                       |
