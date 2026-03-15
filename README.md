@@ -1,8 +1,8 @@
 # Complete Free AWS Course – 40 Days from Zero to Pro!
 
 ## 🔹 PHASE 1 — Cloud & AWS Foundations
-| Day        | Topic                                                                             |
-| ---------- | --------------------------------------------------------------------------------- |
+| Day        | Topic                                                                                                                                                                  |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Day 01     | What is Cloud Computing?, IaaS vs PaaS vs SaaS, Public vs Private vs Hybrid Cloud                                                    |
 | Day 02     | AWS Free Tier, Create AWS Account, MFA Setup, Budget setup, Introduction to AWS,AWS Global Infrastructure, Regions & Availability Zones                     |
 | Day 03     | IAM Users, Groups, Policies                                                      |
