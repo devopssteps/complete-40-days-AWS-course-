@@ -7,7 +7,7 @@
 | Day 02     | AWS Free Tier, Create AWS Account, MFA Setup, Budget setup, Regions & Availability Zones                     |
 | Day 03     | IAM Users, Groups, Policies                                                      |
 | Day 04     | AWS CLI Setup, Configure AWS CLI, Basic CLI Commands                                                         |
-| Day 05     | EC2 Key Pairs, Security Groups, Connect via SSH, EC2 Introduction and Launch First EC2 Instance, EC2 Pricing & Instance Types,                        |
+| Day 05     | Key Pairs, Security Groups, Connect via SSH, Launch EC2 Instance, EC2 Pricing & Instance Types,                        |
 | Day 06     | EBS (Elastic Block Store), Attach & Mount Volume            |
 | Day 07     | AMI (Amazon Machine Image), Create Custom AMI            |
 
