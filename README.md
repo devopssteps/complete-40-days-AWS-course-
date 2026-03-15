@@ -1,15 +1,15 @@
 # Complete Free AWS Course – 40 Days from Zero to Pro!
 
 ## 🔹 PHASE 1 — Cloud & AWS Foundations
-| Day       | Topic                                                                                                                                                                  |
-| ----------| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Day 01    | What is Cloud Computing?, IaaS vs PaaS vs SaaS, Public vs Private vs Hybrid Cloud                                                    |
-| Day 02    | AWS Free Tier, Create AWS Account, MFA Setup, Budget setup, Regions & Availability Zones                     |
-| Day 03    | IAM Users, Groups, Policies                                                      |
-| Day 04    | AWS CLI Setup, Configure AWS CLI, Basic CLI Commands                                                         |
-| Day 05    | EC2 Key Pairs, Security Groups, Connect via SSH, EC2 Introduction and Launch First EC2 Instance, EC2 Pricing & Instance Types, T2 vs T3 vs M5 vs C5                       |
-| Day 06    | EBS (Elastic Block Store), Attach & Mount Volume            |
-| Day 07    | AMI (Amazon Machine Image), Create Custom AMI            |
+| Day        | Topic                                                                                                                                                                  |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Day 01     | What is Cloud Computing?, IaaS vs PaaS vs SaaS, Public vs Private vs Hybrid Cloud                                                    |
+| Day 02     | AWS Free Tier, Create AWS Account, MFA Setup, Budget setup, Regions & Availability Zones                     |
+| Day 03     | IAM Users, Groups, Policies                                                      |
+| Day 04     | AWS CLI Setup, Configure AWS CLI, Basic CLI Commands                                                         |
+| Day 05     | EC2 Key Pairs, Security Groups, Connect via SSH, EC2 Introduction and Launch First EC2 Instance, EC2 Pricing & Instance Types,                        |
+| Day 06     | EBS (Elastic Block Store), Attach & Mount Volume            |
+| Day 07     | AMI (Amazon Machine Image), Create Custom AMI            |
 
 
 ## 🔹 PHASE 2 — Networking Deep Dive
