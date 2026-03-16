@@ -3,8 +3,7 @@
 ## 🔹 PHASE 1 — Cloud & AWS Foundations
 | Day        | Topic                                                                                                                                                                  |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Day 01     | * What is Cloud Computing? 
-* IaaS vs PaaS vs SaaS, Public vs Private vs Hybrid Cloud                                                    |
+| Day 01     | What is Cloud Computing?, IaaS vs PaaS vs SaaS, Public vs Private vs Hybrid Cloud                                                    |
 | Day 02     | AWS Free Tier, Create AWS Account, MFA Setup, Budget setup, Regions & Availability Zones                     |
 | Day 03     | IAM Users, Groups, Policies                                                      |
 | Day 04     | AWS CLI Setup, Configure AWS CLI, Basic CLI Commands                                                         |
