@@ -12,7 +12,7 @@
 | Day 07     | AMI (Amazon Machine Image), Create Custom AMI            |
 
 
-## 🔹 PHASE 2 — Networking Deep Dive
+## 🔹 PHASE 2 — Networking 
 | Day        | Topic                                                                             |
 | ---------- | --------------------------------------------------------------------------------- |
 | Day 08     | VPC Fundamentals, Subnets (Public vs Private), Internet Gateway, Route Tables, NAT Gateway                                                   |
