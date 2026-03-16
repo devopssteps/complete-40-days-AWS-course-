@@ -373,11 +373,11 @@ Millions of users watch movies without owning servers.
 
 Why cloud is important for DevOps:
 
-✔ Infrastructure automation
-✔ CI/CD pipelines
-✔ Kubernetes clusters
-✔ Monitoring
-✔ Scalability
+ - ✔ Infrastructure automation
+ - ✔ CI/CD pipelines
+ - ✔ Kubernetes clusters
+ - ✔ Monitoring
+ - ✔ Scalability
 
 Tools you will later use:
 
