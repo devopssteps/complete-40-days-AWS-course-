@@ -1,4 +1,4 @@
-# Complete AWS Course (day 1)
+# Complete 40 days AWS Course (day 1)
 
 # What is Cloud Computing? | IaaS vs PaaS vs SaaS | Public vs Private vs Hybrid Cloud
 
