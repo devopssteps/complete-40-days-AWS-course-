@@ -25,22 +25,22 @@
 ## 🔹 PHASE 3 — Storage & Databases
 | Day        | Topic                                                                             |
 | ---------- | --------------------------------------------------------------------------------- |
-| Day 12     | S3 Deep Dive, S3 Versioning, Lifecycle Policy                                                    |
-| Day 13     | S3 Static Website Hosting                     |
-| Day 14     | RDS Introduction, Launch MySQL/Postgres in RDS                                                      |
-| Day 15     | EFS (Elastic File System) with hands on demo   |
+| Day 13     | S3 Deep Dive, S3 Versioning, Lifecycle Policy                                                    |
+| Day 14     | S3 Static Website Hosting                     |
+| Day 15     | RDS Introduction, Launch MySQL/Postgres in RDS                                                      |
+| Day 16     | EFS (Elastic File System) with hands on demo   |
 
 
 
 ## 🔹 PHASE 4 — High Availability & Scaling
 | Day        | Topic                                                                             |
 | ---------- | --------------------------------------------------------------------------------- |
-| Day 16     | Auto Scaling Groups                                                    |
-| Day 17     | Launch Templates, Multi-AZ Architecture                     |
-| Day 18     | CloudWatch with hands on                                                      |
-| Day 19     | CloudWatch Alarms with hands on   |
-| Day 20     | SNS (Simple Notification Service)                                                    |
-| Day 21     | SQS (Simple Queue Service)                     |
+| Day 17     | Auto Scaling Groups                                                    |
+| Day 18     | Launch Templates, Multi-AZ Architecture                     |
+| Day 19     | CloudWatch with hands on                                                      |
+| Day 20     | CloudWatch Alarms with hands on   |
+| Day 21     | SNS (Simple Notification Service)                                                    |
+| Day 22     | SQS (Simple Queue Service)                     |
 
 
 ## 🔹 PHASE 5 — Serverless & Modern AWS
