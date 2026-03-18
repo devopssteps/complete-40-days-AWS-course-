@@ -9,16 +9,17 @@
 | Day 04     | AWS CLI Setup, Configure AWS CLI, Basic CLI Commands                                                         |
 | Day 05     | Key Pairs, Security Groups, Connect via SSH, Launch EC2 Instance, EC2 Pricing & Instance Types                        |
 | Day 06     | EBS (Elastic Block Store), Attach & Mount Volume            |
+| Day 07     | EFS (Elastic File System) hands on             |
 | Day 07     | AMI (Amazon Machine Image), Create Custom AMI            |
 
 
 ## 🔹 PHASE 2 — Networking 
 | Day        | Topic                                                                             |
 | ---------- | --------------------------------------------------------------------------------- |
-| Day 08     | VPC Fundamentals, Subnets (Public vs Private), Internet Gateway, Route Tables, NAT Gateway                                                   |
-| Day 09     | Security Groups vs NACL, Elastic IP                     |
-| Day 10     | VPC Peering                                                      |
-| Day 11     | Load Balancer (ALB, NLB)                                                         |
+| Day 09     | VPC Fundamentals                                                   |
+| Day 10     | AWS Firewall and Elastic IP                     |
+| Day 11     | VPC Peering                                                      |
+| Day 12     | AWS Load Balancer (ALB, NLB)                                                         |
 
 
 ## 🔹 PHASE 3 — Storage & Databases
