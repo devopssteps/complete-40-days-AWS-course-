@@ -10,7 +10,7 @@
 | Day 05     | Key Pairs, Security Groups, Connect via SSH, Launch EC2 Instance, EC2 Pricing & Instance Types                        |
 | Day 06     | EBS (Elastic Block Store), Attach & Mount Volume            |
 | Day 07     | EFS (Elastic File System) hands on             |
-| Day 07     | AMI (Amazon Machine Image), Create Custom AMI            |
+| Day 08     | AMI (Amazon Machine Image), Create Custom AMI            |
 
 
 ## 🔹 PHASE 2 — Networking 
